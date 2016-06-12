@@ -28,3 +28,6 @@
 // #define TAPUINO_LANGUAGE_IT
 // #define TAPUINO_LANGUAGE_TR
 
+// Incluyo la versión en español - @edu_arana <http://arananet-net.kinja.com>
+// #define TAPUINO_LANGUAGE_ES
+
